@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: de1cf51ae07151446a4b8e711528e9ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6528672384841737879
+    second: Maket_0
+  - first:
+      213: -4589309259956825767
+    second: Maket_1
+  - first:
+      213: -3595781828140683323
+    second: Maket_2
+  - first:
+      213: 1975694013844872759
+    second: Maket_3
+  - first:
+      213: -2456568392988088744
+    second: Maket_4
+  - first:
+      213: -2451599956631400135
+    second: Maket_5
+  - first:
+      213: 4494933587411276578
+    second: Maket_6
+  - first:
+      213: -5748336984716057626
+    second: Maket_7
+  - first:
+      213: -6729526004713083447
+    second: Maket_8
+  - first:
+      213: 6816920246095184757
+    second: Maket_9
+  - first:
+      213: 7140481978884070272
+    second: Maket_10
+  - first:
+      213: 4824939232430879212
+    second: Maket_11
+  - first:
+      213: 4481927871656148049
+    second: Maket_12
+  - first:
+      213: 4609966351548345903
+    second: Maket_13
+  - first:
+      213: -471111315121967340
+    second: Maket_14
+  - first:
+      213: -2025812063407609460
+    second: Maket_15
+  - first:
+      213: -2134046793449513530
+    second: Maket_16
+  - first:
+      213: -857695415901938427
+    second: Maket_17
+  - first:
+      213: -7318277516858276609
+    second: Maket_18
+  - first:
+      213: -5599542794998930630
+    second: Maket_19
+  - first:
+      213: 1277649632335468875
+    second: Maket_21
+  - first:
+      213: -7723689013080928776
+    second: Maket_22
+  - first:
+      213: -5909471933567566976
+    second: Maket_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maket_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3134
+        width: 2280
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9691b9e6e0f7565a0800000000000000
+      internalID: -6528672384841737879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2629
+        width: 959
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951dcd31b8f7f40c0800000000000000
+      internalID: -4589309259956825767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2629
+        width: 456
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfaed38a77391ec0800000000000000
+      internalID: -3595781828140683323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_3
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 2629
+        width: 452
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed618ec331b6b10800000000000000
+      internalID: 1975694013844872759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2123
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562e71ef0488edd0800000000000000
+      internalID: -2456568392988088744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2123
+        width: 452
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9315f9d14da2afdd0800000000000000
+      internalID: -2451599956631400135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_6
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2123
+        width: 452
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231f965846316e30800000000000000
+      internalID: 4494933587411276578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_7
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 2123
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e362c8e7fdc930b0800000000000000
+      internalID: -5748336984716057626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1618
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda256d0cbeb92a0800000000000000
+      internalID: -6729526004713083447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1618
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730ca2a8d09a9e50800000000000000
+      internalID: 6816920246095184757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_10
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1618
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b96742786181360800000000000000
+      internalID: 7140481978884070272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_11
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1618
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce173e31ba0a5f240800000000000000
+      internalID: 4824939232430879212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1110
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cbcfa27a1033e30800000000000000
+      internalID: 4481927871656148049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1110
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eea8ad8f3e9ff30800000000000000
+      internalID: 4609966351548345903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_14
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1110
+        width: 456
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fec7441c64679f0800000000000000
+      internalID: -471111315121967340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_15
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1110
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8963ea59aed2e3e0800000000000000
+      internalID: -2025812063407609460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 591
+        width: 452
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd516e7fb75262e0800000000000000
+      internalID: -2134046793449513530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 591
+        width: 452
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1fa1409ad814f0800000000000000
+      internalID: -857695415901938427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 591
+        width: 455
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff44fef4f51407a90800000000000000
+      internalID: -7318277516858276609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_19
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 85
+        width: 452
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ad7fde7d6a42b0800000000000000
+      internalID: -5599542794998930630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 85
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4993c2429f1bb110800000000000000
+      internalID: 1277649632335468875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_22
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 85
+        width: 452
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd49b3b3c1ffc490800000000000000
+      internalID: -7723689013080928776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maket_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 85
+        width: 453
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b709d06965dfda0800000000000000
+      internalID: -5909471933567566976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Maket_3: 1975694013844872759
+      Maket_20: -5909471933567566976
+      Maket_15: -2025812063407609460
+      Maket_8: -6729526004713083447
+      Maket_2: -3595781828140683323
+      Maket_10: 7140481978884070272
+      Maket_19: -5599542794998930630
+      Maket_1: -4589309259956825767
+      Maket_5: -2451599956631400135
+      Maket_16: -2134046793449513530
+      Maket_18: -7318277516858276609
+      Maket_6: 4494933587411276578
+      Maket_17: -857695415901938427
+      Maket_21: 1277649632335468875
+      Maket_12: 4481927871656148049
+      Maket_22: -7723689013080928776
+      Maket_9: 6816920246095184757
+      Maket_0: -6528672384841737879
+      Maket_7: -5748336984716057626
+      Maket_13: 4609966351548345903
+      Maket_11: 4824939232430879212
+      Maket_4: -2456568392988088744
+      Maket_14: -471111315121967340
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
