@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 public class Calculator : MonoBehaviour
 {
@@ -49,14 +50,14 @@ public class Calculator : MonoBehaviour
     {
         if (!isActiveSymbol)
         {
-            if (textFieldFirstValue.text.Contains(','))
+            if (textFieldFirstValue.text.Contains(","))
                 return;
             else
                 textFieldFirstValue.text += point;
         }
         else
         {
-            if (textFieldSecondValue.text.Contains(','))
+            if (textFieldSecondValue.text.Contains(","))
                 return;
             else
                 textFieldSecondValue.text += point;
@@ -67,7 +68,7 @@ public class Calculator : MonoBehaviour
         equalField.text = "=";
         Operations();
         textFieldResolt.text = resolt.ToString();
-        if(textFieldSecondValue.text=="")
+        if (textFieldSecondValue.text == "")
             textFieldResolt.text = firstValue.ToString();
     }
     private void Operations()
@@ -90,7 +91,7 @@ public class Calculator : MonoBehaviour
                 resolt = PowCalculation();
                 break;
         }
-        
+
     }
     private float Addition() => firstValue + secondValue;
     private float Subtraction() => firstValue - secondValue;
@@ -112,18 +113,24 @@ public class Calculator : MonoBehaviour
 
         {
             if (textFieldFirstValue.text != "")
+            {
                 textFieldFirstValue.text = textFieldFirstValue.text.Remove(textFieldFirstValue.text.Length - 1);
+                firstValue = float.Parse(textFieldFirstValue.text);
+            }
             else
                 textFieldFirstValue.text = "";
-        }    
+        }
 
         else
         {
             if (textFieldSecondValue.text != "")
+            {
                 textFieldSecondValue.text = textFieldSecondValue.text.Remove(textFieldSecondValue.text.Length - 1);
+                secondValue = float.Parse(textFieldSecondValue.text);
+            }
             else
                 textFieldSecondValue.text = "";
-        }     
+        }
     }
 
     public void InterestCalculation()
@@ -145,7 +152,7 @@ public class Calculator : MonoBehaviour
             textFieldSecondValue.text = secondValue.ToString();
         }
     }
-   
+
     public void ChangePlusOrMinus()
     {
         if (textFieldResolt.text != "")
