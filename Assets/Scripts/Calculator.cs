@@ -21,13 +21,13 @@ public class Calculator : MonoBehaviour
         if (!isActiveSymbol)
         {
             textFieldFirstValue.text += number;
-            firstValue = float.Parse(textFieldFirstValue.text);
+            firstValue = ParseValue(textFieldFirstValue);
         }
 
         else
         {
             textFieldSecondValue.text += number;
-            secondValue = float.Parse(textFieldSecondValue.text);
+            secondValue = ParseValue(textFieldSecondValue);
         }
     }
     public void SetSymbol(string symbol)
@@ -115,10 +115,12 @@ public class Calculator : MonoBehaviour
             if (textFieldFirstValue.text != "")
             {
                 textFieldFirstValue.text = textFieldFirstValue.text.Remove(textFieldFirstValue.text.Length - 1);
-                firstValue = float.Parse(textFieldFirstValue.text);
+                firstValue = ParseValue(textFieldFirstValue);
             }
             else
                 textFieldFirstValue.text = "";
+
+           
         }
 
         else
@@ -126,11 +128,18 @@ public class Calculator : MonoBehaviour
             if (textFieldSecondValue.text != "")
             {
                 textFieldSecondValue.text = textFieldSecondValue.text.Remove(textFieldSecondValue.text.Length - 1);
-                secondValue = float.Parse(textFieldSecondValue.text);
+                secondValue = ParseValue(textFieldSecondValue);
             }
             else
                 textFieldSecondValue.text = "";
         }
+    }
+    private float ParseValue(TextMeshProUGUI textField)
+    {
+        if (textField.text != "")
+            return float.Parse(textField.text);
+        else return 0f; ;
+
     }
 
     public void InterestCalculation()
